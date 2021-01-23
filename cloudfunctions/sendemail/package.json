@@ -1,0 +1,16 @@
+{
+  "name": "sendemail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "1.1.1",
+    "nodemailer": "^6.4.17",
+    "dotenv":"8.2.0"
+  }
+}
