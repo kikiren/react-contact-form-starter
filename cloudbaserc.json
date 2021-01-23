@@ -47,16 +47,18 @@
         }
       }
     },
-    "environment": {
-      "REACT_APP_SENDER_EMAIL": {
-        "description": "服务邮箱",
-        "required": true,
-        "default": "123@qq.com"
-      },
-      "REACT_APP_EMAIL_PASS": {
-        "description": "服务密码",
-        "required": true,
-        "default": "123456"
+    "requirement": {
+      "environment": {
+        "REACT_APP_SENDER_EMAIL": {
+          "description": "服务邮箱",
+          "required": true,
+          "default": "123@qq.com"
+        },
+        "REACT_APP_EMAIL_PASS": {
+          "description": "服务密码",
+          "required": true,
+          "default": "123456"
+        }
       }
     }
   },
