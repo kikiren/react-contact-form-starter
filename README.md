@@ -6,7 +6,7 @@
 
 ## 线上演示地址
 
-[点击这里](https://mail-9gy6laex0b6476a8-1303259770.tcloudbaseapp.com/)
+[Demo](https://dev-c6165-1303259770.tcloudbaseapp.com/)
 
 点击下方按钮使用 [CloudBase Framework](https://github.com/TencentCloudBase/cloudbase-framework) 可以在云端一键部署本项目到自己的云开发账号上。
 
